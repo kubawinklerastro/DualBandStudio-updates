@@ -2,9 +2,9 @@
 <xri version="1.0">
   <description><p>DualBand Studio — OSC dual-band narrowband toolkit by Kuba Winkler</p></description>
   <platform os="all" arch="noarch" version="1.8.9:1.9.99">
-    <package fileName="DualBandStudio-0.5.1.zip" sha1="b0ecee2311986ff89470f58403289f33dfd4c894" type="script" releaseDate="20261016131445">
-      <title>DualBand Studio 0.5.1</title>
-      <description><p>DualBand Studio 0.5.1 by Kuba Winkler.</p></description>
+    <package fileName="DualBandStudio-0.6.0.zip" sha1="c0b5142847eabfecb78c69d8a632ccb6aa17d981" type="script" releaseDate="20261016134235">
+      <title>DualBand Studio 0.6.0</title>
+      <description><p>DualBand Studio 0.6.0 by Kuba Winkler.</p></description>
     </package>
   </platform>
 </xri>
